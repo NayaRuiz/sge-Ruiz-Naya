@@ -2,6 +2,12 @@
 En este tema aprenderemos a como instalas Odoo, configurarlo e utilizarlo, asi como a crear usuarios y a hacer consultas en la base de datos de pgadmin.
 - [UT2.1-Instalacion Odoo](UT2.1-instalacion-odoo)
 - [UT2.2-Pgadmin](UT2.2-pgadmin)
+# Herramientas
+- Ubuntu Server 24.04 TLS: Para alojar Odoo
+- Odoo 18: Nuestro ERP
+- Apache: Servidor web para acceder a pgAdmin
+- pgAdmin 4: Para explorar la base de datos de pgAdmin
+- PostgreSQL: Gestionará la base de datos de Odoo
 # Estructura de carpetas
 ```text
 UT2-implantacion.odoo/
