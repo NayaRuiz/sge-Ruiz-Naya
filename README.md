@@ -1,8 +1,5 @@
 # sge-Ruiz-Naya
 # Estructura del proyecto
-
-El proyecto está organizado en las siguientes carpetas y archivos:
-
 ```text
 sge-Ruiz-Naya/
 ├──UT1-sistemas-erp/
