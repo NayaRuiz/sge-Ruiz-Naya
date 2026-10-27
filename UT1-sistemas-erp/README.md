@@ -1,7 +1,7 @@
 # UT1-sistemas-erp
 En esta unidad vamos a aprender lo que son los sistemas ERP y la diferencia entre ellos, tanto como sus licencias, su arquitectura y organización, los modelos de despliegue
 en nube y los principantes softwares ERP.
-Tamnbién aprenderemos a saber elegir uno dependiendo de la situación de la empresa / empresario que lo vaya a utilizar. Nos basaremos para esto en: el precio, la personalización, el soporte...
+\n Tamnbién aprenderemos a saber elegir uno dependiendo de la situación de la empresa / empresario que lo vaya a utilizar. Nos basaremos para esto en: el precio, la personalización, el soporte...
 
 # Estructuras de carpetas
 ```test
