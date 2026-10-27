@@ -17,6 +17,9 @@ sge-Ruiz-Naya/
 |  |  |  ├──captura_de_pantalla1.png
 |  |  |  ├──captura_de_pantalla2.png
 |  |  |  └──...
+|  |  ├──config/
+|  |  |  ├──odoo18.conf.example
+|  |  |  └──odoo18.service
 |  |  ├──README-md
 |  |  └──indicencias.md
 |  ├──UT2.2-pgadmin/
