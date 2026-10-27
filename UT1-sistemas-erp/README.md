@@ -13,6 +13,6 @@ UT1-sistemas-erp/
 └──UT1_Act3_NayaRuiz_SaúlValdunciel.pdf
 ```
 # Realización de los ejercicios
-Los ejercicios se han realizado siguiendo las indicaciones que se han facilitado.
+- Los ejercicios se han realizado siguiendo las indicaciones que se han facilitado.
 
-El ejercicio 3, se ha realizado en grupo junto a Saúl Valdunciel Grimaldi.
+- El ejercicio 3, se ha realizado en grupo junto a Saúl Valdunciel Grimaldi.
