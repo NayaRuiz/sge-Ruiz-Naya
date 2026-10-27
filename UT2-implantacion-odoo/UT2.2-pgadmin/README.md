@@ -1,7 +1,4 @@
 # UT2.2-Pgadmin
-## Readme
-
-
 | Dato | Pruebas | Empresa |
 |------|---------|---------|
 | Aplicaciones instaladas (consulta 4, es_aplicacion = true) | 3 |6
