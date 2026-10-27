@@ -1,1 +1,1 @@
-# sge-Ruiz-Naya
+# UT2-implantacion-odoo
