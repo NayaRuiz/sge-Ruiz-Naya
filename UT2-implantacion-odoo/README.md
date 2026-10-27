@@ -1,7 +1,7 @@
 # UT2-Implantacion Odoo
 En este tema aprenderemos a como instalas Odoo, configurarlo e utilizarlo, asi como a crear usuarios y a hacer consultas en la base de datos de pgadmin.
-- [UT2.1-instalacion-odoo](UT2.1-instalacion-odoo/README.md)
-- [UT2.2-pgadmin](UT2.2-pgadmin/README.md)
+- [UT2.1-instalacion-odoo](UT2.1-instalacion-odoo)
+- [UT2.2-pgadmin](UT2.2-pgadmin)
 # Estructura de carpetas
 ```text
 UT2-implantacion.odoo/
