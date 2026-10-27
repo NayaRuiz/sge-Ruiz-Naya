@@ -1,4 +1,4 @@
-# UT1 ─ Sistemas ERP
+# UT1─Sistemas ERP
 En esta unidad vamos a aprender lo que son los sistemas ERP y la diferencia entre ellos, tanto como sus licencias, su arquitectura y organización, los modelos de despliegue
 en nube y los principantes softwares ERP.
 
