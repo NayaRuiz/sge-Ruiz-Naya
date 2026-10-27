@@ -206,13 +206,7 @@ También está el PDF `img/Pedido_de_venta_S00023.pdf`, que puede servir como ev
 
 ## 9. Incidencias
 
-Las incidencias se documentan en [`incidencias.md`](incidencias.md). Debe incluirse cada problema que haya aparecido, el paso en el que ocurrió, el mensaje de error, la causa identificada y la solución aplicada. No añadas incidencias que no hayas experimentado.
-
-Formato recomendado:
-
-| Nº | Fecha | Paso | Síntoma (mensaje de error) | Causa | Solución |
-|---|---|---|---|---|---|
-| 1 | DD/MM | Paso correspondiente | Mensaje real | Causa identificada | Solución aplicada |
+Las incidencias se documentan en [`incidencias.md`](incidencias.md).
 
 ## 10. Conclusiones
 
