@@ -1,6 +1,6 @@
 # SGE-Ruiz-Naya
-- [Unidad 1](UT1-sistemas-erp/README.md)
-- [Unidad 2](UT2-implantacion-odoo/README.md)
+- [Unidad 1-Sistemas ERP](UT1-sistemas-erp)
+- [Unidad 2-Implantacion Odoo](UT2-implantacion-odoo)
 # Estructura de carpetas
 ```text
 sge-Ruiz-Naya/
