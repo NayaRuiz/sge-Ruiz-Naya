@@ -1,0 +1,15 @@
+
+[Unit]
+Description=Odoo 18 Community
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+User=odoo18
+Group=odoo18
+WorkingDirectory=/opt/odoo18/odoo
+ExecStart=/opt/odoo18/venv/bin/python3 /opt/odoo18/odoo/odoo-bin -c /etc/odoo18.conf
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
