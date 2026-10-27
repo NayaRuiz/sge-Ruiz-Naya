@@ -15,9 +15,11 @@ UT2-implantacion.odoo/
 |  ├──img/
 |  |  ├──Pedido_de_venta_S00023.pdf
 |  |  ├──pruebas_2026-10-08_15-20-38.zip
-|  |  ├──captura_de_pantalla1.png
-|  |  ├──captura_de_pantalla2.png
+|  |  ├──2_Paso2_ip_a.png
 |  |  └──...
+|  ├──config/
+|  |  ├──odoo.18.conf.example
+|  |  └──odoo18.service
 |  ├──README-md
 |  └──indicencias.md
 ├──UT2.2-pgadmin/
