@@ -1,0 +1,19 @@
+
+[options]
+; Contraseña maestra de Odoo: cambia este valor en la instalación real
+admin_passwd = CAMBIAR_ESTA_CLAVE
+
+; Configuración de PostgreSQL
+db_host = False
+db_port = False
+db_user = odoo18
+db_password = False
+
+; Rutas de los complementos de Odoo
+addons_path = /opt/odoo18/odoo/addons,/opt/odoo18/custom-addons
+
+; Registro de actividad
+logfile = /var/log/odoo18/odoo18.log
+
+; Puerto web de Odoo
+http_port = 8069
