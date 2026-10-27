@@ -14,4 +14,5 @@ UT1-sistemas-erp/
 ```
 # Realización de los ejercicios
 Los ejercicios se han realizado siguiendo las indicaciones que se han facilitado.
+
 El ejercicio 3, se ha realizado en grupo junto a Saúl Valdunciel Grimaldi.
