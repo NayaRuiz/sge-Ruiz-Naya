@@ -1,4 +1,4 @@
-# sge-Ruiz-Naya
+# UT2.1-instalacion-odoo
 ## Incidencias encontradas y soluciones aplicadas
 
 **1. Error al instalar las dependencias de Python (`psycopg2` y `python-ldap`)**
