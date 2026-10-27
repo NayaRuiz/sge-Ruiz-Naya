@@ -1,5 +1,5 @@
 # sge-Ruiz-Naya
-# Estructura del proyecto
+# Estructura de carpetas
 ```text
 sge-Ruiz-Naya/
 ├──UT1-sistemas-erp/
