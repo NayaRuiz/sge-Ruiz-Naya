@@ -1,4 +1,3 @@
-# sge-Ruiz-Naya
 # Estructura de carpetas
 ```text
 sge-Ruiz-Naya/
