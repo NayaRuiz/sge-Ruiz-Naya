@@ -214,7 +214,7 @@ Resultados de las consultas 9 a 12 en `pruebas` y en `empresa`:
 | database.is_neutralized (consulta 11) | X | X | No aparece |
 | Acciones planificadas activas (consulta 12) | 24 | 26 | No coincide. Porque son tablas que tratan cosas completamente diferentes |
 
-> **Nota:** la guía plantea esta misma comparativa entre `pruebas` y `pruebas-restaurada`. Si se dispone de las capturas de `pruebas-restaurada`, añadir aquí una tercera columna con sus valores reales (en esa base de datos se espera un `database.uuid` distinto, la marca `database.is_neutralized` y menos acciones planificadas activas).
+La explicación de por que la tabla no compara las tablas indicadas en el ejercicio se encuentran en [las indicencias](incidencias.md)
 
 Capturas de la consulta 11:
 
