@@ -1,4 +1,6 @@
 # SGE-Ruiz-Naya
+En este repositorio se pueden encontrar los ejercicios y temario de la asignaruta SGE de DAM2. En ella, aprenderemos a gestionar y elegir ERM (Odoo siendo la principal)
+
 - [Unidad 1-Sistemas ERP](UT1-sistemas-erp)
 - [Unidad 2-Implantacion Odoo](UT2-implantacion-odoo)
 # Estructura de carpetas
