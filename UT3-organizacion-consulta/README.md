@@ -23,21 +23,37 @@ UT3-organizacion-consulta/
 ├── README.md
 ├── UT3.1-puesta-en-marcha/
 │   ├── img/
+│   │   ├──Paso2_AplicacionesInstaladas.png
+│   │   ├──Paso2_DatosTecnicosReparaciones.png
+│   │   ├──Paso3_InformacionEmpresa.png
+│   │   └──...
 │   ├── README.md
 │   └── incidencias.md
 ├── UT3.2-grupo-menu/
 │   ├── img/
+│   │   ├──Paso1_CreacionProductoPastaTermina.png
+│   │   ├──Paso1_IntentoCambioPrecioLucia.png
+│   │   ├──Paso1_ProductoTemplaceStockUserSoloLectura.png
+│   │   └──...
 │   ├── README.md
 │   └── incidencias.md
 ├── UT3.3-datos-maestros/
 │   ├── img/
+│   │   ├──Paso2_AplicacionesInstaladas.png
+│   │   ├──Paso2_DatosTecnicosReparaciones.png
+│   │   ├──Paso3_InformacionEmpresa.png
+│   │   └──...
 │   ├── recursos/
 │   ├── README.md
 │   └── incidencias.md
-└── UT3.4-circuitos/
-    ├── img/
-    ├── README.md
-    └── incidencias.md
-```
+├── UT3.4-circuitos/
+│   ├── img/
+│   │   ├──Paso2_AplicacionesInstaladas.png
+│   │   ├──Paso2_DatosTecnicosReparaciones.png
+│   │   ├──Paso3_InformacionEmpresa.png
+│   │   └──...
+│   ├── README.md
+│   └── incidencias.md
+└──README.md
 
 Cada README de actividad describe el procedimiento, explica los conceptos solicitados y enlaza las capturas disponibles. Las incidencias deben completarse con los problemas que realmente hayan ocurrido durante la práctica.
