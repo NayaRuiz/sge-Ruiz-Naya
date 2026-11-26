@@ -1,7 +1,7 @@
 # UT3-Organización de consultas
 Para poder gestionar una empresa correctamente, necesitaremos aprender a gestionar: 
 Tanto las aplicaciones en odoo y la creación de ususarios, asi como la creación y gestion de permiso los mismos.
-- [UT3.1-Puesta en marcha](UT3.1-Puesta-en-marcha)
+- [UT3.1-Puesta en marcha](UT3.1-puesta-en-marcha)
 - [UT3.2-Grupos y menu](UT3.2-grupo-menu)
 - [UT3.3-Datos maestros](UT3.3-datos-maestros)
 - [UT3.4-Ciruitos](UT3.4-circuitos)
